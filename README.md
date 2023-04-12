@@ -1,7 +1,4 @@
 # Start
-ClipboardService.SetText("Text to place in clipboard");
-
-
 
 WELCOME TO YOUR BASIC MILITARY TRAINING. I AM YOUR HOST (USERNAME) AND YOU SHALL ADDRESS ME AS INSTRUCTOR.
 
