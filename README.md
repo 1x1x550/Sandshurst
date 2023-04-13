@@ -223,24 +223,4 @@ Congratulations! Stay here while I rank you.
 
 # Send BMT-LOGS
 
-**Host:** @
-**Event Type: BMT **
-**Time zone: EST **
-**Attendees: 9**
-**Passers: 4**
-
-**Passers names: **
--
--
--
--
-
-RSM: @[RSM] TheNormalBreadCrumb 
-------------------------------------------------------
-**Notes Passers**
--
--
--
--
-------------------------------------------------------
-**Proof:**
+https://pastebin.com/raw/MytF7pWY
