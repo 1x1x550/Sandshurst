@@ -220,3 +220,27 @@ Remember, in order to progress further in rank, you must join the discvrd server
 Congratulations! Stay here while I rank you.
 
 [You must now log your BMT using the in-game promotion panel. Once logged, have your recruits rejoin the game.]
+
+# Send BMT-LOGS
+
+**Host:** @
+**Event Type: BMT **
+**Time zone: EST **
+**Attendees: 9**
+**Passers: 4**
+
+**Passers names: **
+-
+-
+-
+-
+
+RSM: @[RSM] TheNormalBreadCrumb 
+------------------------------------------------------
+**Notes Passers**
+-
+-
+-
+-
+------------------------------------------------------
+**Proof:**
